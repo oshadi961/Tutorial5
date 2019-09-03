@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "550490113104",
+    "firebase_url": "https://labtute5.firebaseio.com",
+    "project_id": "labtute5",
+    "storage_bucket": "labtute5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550490113104:android:44f560250d469ab4",
+        "android_client_info": {
+          "package_name": "com.example.student.labtute5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550490113104-k1opsb0oak5kkvq9urk2q6lur290kurb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.student.labtute5",
+            "certificate_hash": "cf30c74431faf6322943652e4010d33321ea0279"
+          }
+        },
+        {
+          "client_id": "550490113104-f3ogu554mvk4d11fuqca1g4ehrjq7hjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVwt-G-JCSBUc7sOeajZaxecbKST8cTiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550490113104-f3ogu554mvk4d11fuqca1g4ehrjq7hjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

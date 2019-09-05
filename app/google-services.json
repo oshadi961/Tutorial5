@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "550490113104-d0358imp5t77i6l25crssh8ijadpd81o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.student.labtute5",
+            "certificate_hash": "b8864c51f9d1e2af16a4fe352cf9a67c95839083"
+          }
+        },
+        {
           "client_id": "550490113104-k1opsb0oak5kkvq9urk2q6lur290kurb.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
